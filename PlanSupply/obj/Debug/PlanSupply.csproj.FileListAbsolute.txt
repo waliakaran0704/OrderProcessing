@@ -1,0 +1,10 @@
+D:\OrderProcessing\PlanSupply\bin\Debug\PlanSupply.exe.config
+D:\OrderProcessing\PlanSupply\bin\Debug\PlanSupply.exe
+D:\OrderProcessing\PlanSupply\bin\Debug\PlanSupply.pdb
+D:\OrderProcessing\PlanSupply\obj\Debug\PlanSupply.csprojAssemblyReference.cache
+D:\OrderProcessing\PlanSupply\obj\Debug\PlanSupply.Form1.resources
+D:\OrderProcessing\PlanSupply\obj\Debug\PlanSupply.Properties.Resources.resources
+D:\OrderProcessing\PlanSupply\obj\Debug\PlanSupply.csproj.GenerateResource.cache
+D:\OrderProcessing\PlanSupply\obj\Debug\PlanSupply.csproj.CoreCompileInputs.cache
+D:\OrderProcessing\PlanSupply\obj\Debug\PlanSupply.exe
+D:\OrderProcessing\PlanSupply\obj\Debug\PlanSupply.pdb
